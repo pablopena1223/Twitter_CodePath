@@ -18,8 +18,6 @@ class HomeTableViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("yurrr")
-        
         loadTweet()
         
         //pull to refresh
